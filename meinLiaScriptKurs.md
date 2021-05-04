@@ -7,4 +7,3 @@
 - dritter Punkt
 - vierter Punkt
 - fünfter Punkt
-- sechster Punkt
